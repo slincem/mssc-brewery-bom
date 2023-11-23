@@ -8,6 +8,19 @@
 
   <packaging>pom</packaging>
 
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0</name>
+      <url>https://www.gnu.org/licenses/gpl.txt</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Santiago Montano</name>
+    </developer>
+  </developers>
+
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
